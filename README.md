@@ -15,7 +15,9 @@ HOST_URL=http://localhost:3000
 EMAIL_USER= <your email>
 EMAIL_PASS= <your password>
 
-# just create acount on https://cloudinary.com/users/login
-CLOUDINARY_CLOUD_NAME= <your cloudinary-cloud-name>
-CLOUDINARY_API_KEY= <your cloudinary-api-key>
-CLOUDINARY_API_SECRET= <your cloudinary-api-secret>
+just create acount on https://cloudinary.com/users/login
+1. CLOUDINARY_CLOUD_NAME= <your cloudinary-cloud-name>
+2. CLOUDINARY_API_KEY= <your cloudinary-api-key>
+3. CLOUDINARY_API_SECRET= <your cloudinary-api-secret>
+
+
