@@ -10,13 +10,13 @@
 3. JWT_SECRET= your secret key
 
 #url of frontend
-4. HOST_URL=http://localhost:3000
-5. EMAIL_USER= your email
-6. EMAIL_PASS= your password
+1. HOST_URL=http://localhost:3000
+2. EMAIL_USER= your email
+3. EMAIL_PASS= your password
 
 just create acount on https://cloudinary.com/users/login
-7. CLOUDINARY_CLOUD_NAME= your cloudinary-cloud-name
-8. CLOUDINARY_API_KEY= your cloudinary-api-key
-9. CLOUDINARY_API_SECRET= your cloudinary-api-secret
+1. CLOUDINARY_CLOUD_NAME= your cloudinary-cloud-name
+2. CLOUDINARY_API_KEY= your cloudinary-api-key
+3. CLOUDINARY_API_SECRET= your cloudinary-api-secret
 
 
