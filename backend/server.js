@@ -14,7 +14,7 @@ const database_url = process.env.DATABASE_URL;
 
 // Apply CORS middleware
 app.use(cors({
-    origin: ['http://localhost:3000','http://localhost:8080'], // Your frontend URL
+    origin: ['http://localhost:3000','http://localhost:8080','https://frontend-repo-s74e.onrender.com'], // Your frontend URL
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     allowedHeaders: ['Content-Type', 'Authorization'],
     credentials: true
